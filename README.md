@@ -1,7 +1,7 @@
 # Project Summary:
 
 In this project we are going to focus on a Kaggle competition to apply some machine learning models.
-Specially, we will study the case of a Brazilian company, Porto Seguro, with the aim of identifying and predicting customers who will file a claim in the coming year.
+Specially, we will study the case of a Brazilian company, Porto Seguro, with the aim of identifying and predicting customers who will file a claim in the coming year. \n
 For detailed info about the project, check the memory file. 
 
 # Files in the repository:
