@@ -1,2 +1,7 @@
 # Porto-Seguro-s-claim-prediction
-Descripcion project de lo que se hace
+In this project
+
+# Files in the repository:
+#### main.py: executes all the scripts
+
+
